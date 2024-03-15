@@ -10,6 +10,9 @@ keyboard = ReplyKeyboardMarkup(
         ],
         [
             KeyboardButton(text='Bot Haqida!')
+        ],
+        [
+            KeyboardButton('Buyurtmalar tarixi!')
         ]
     ], resize_keyboard=True
 )
